@@ -14,4 +14,6 @@ Enter push commands from GitHub:
 ```
 <img width="627" alt="GitHub example" src="https://user-images.githubusercontent.com/118036741/202149316-e622e101-4a0e-4eff-93d9-c741b932e8ee.png">
 
+---
+![weeb](https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif)
 > *Happy coding! ❤️* 
