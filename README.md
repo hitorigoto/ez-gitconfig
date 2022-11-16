@@ -1,0 +1,2 @@
+# ez-gitconfig
+:D
