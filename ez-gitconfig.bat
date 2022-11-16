@@ -1,5 +1,5 @@
 @echo off
-@echo ***EZ GIT CONFIG WIZARD***
+@echo ***EZ GIT CONFIG WIZARD by P'Phurit***
 
 set /p name= "Enter user.name: "
 set /p email= "Enter user.email: "
