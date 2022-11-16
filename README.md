@@ -1,2 +1,2 @@
 # ez-gitconfig
-:D
+git config made easy! :D
