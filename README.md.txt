@@ -1,2 +1,0 @@
-# Ez git config
-:D
